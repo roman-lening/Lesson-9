@@ -1,0 +1,1 @@
+Создать express сервер, подключить mysql, написать миграции, и модель User(username, password). Реализовать /register и /login
